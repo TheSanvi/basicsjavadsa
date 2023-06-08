@@ -1,6 +1,6 @@
 package ifelse;
 
-public class middleofnumber {
+public class basicideaofifelse {
     public static void main(String[] args) {
         boolean a = true, b= false;
         /*

@@ -8,6 +8,7 @@ public class MiddleOfThreeNumbers {
         if (a >= b && a <= c || a>=c && a<+b)
             middle = a;
         else if (b >= c && b<=a || b>=a && b<=c)
+
             middle = b;
         else
             middle = c;
