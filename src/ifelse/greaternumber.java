@@ -6,7 +6,7 @@ public class greaternumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number a and b");
-        int a = 6;// sc.nextInt();
+        int a = 10;// sc.nextInt();
         int b = 8;// sc.nextInt();
         int max = (a > b) ? a : b;
 //        if (a > b)
